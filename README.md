@@ -1,5 +1,5 @@
 
-# Update - This module no longer works because both google finance and yahoo finance have been shut down.
+# Update: Since I've Found on How Scrape from gfinance and yfinance, I'll Continue To Work On this.
 
 
 ---
